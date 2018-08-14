@@ -17,4 +17,4 @@ int nuevadivision =division; // al realizar la conversion de la división que es
 std::cout<<nuevadivision;
 return  0; // confirma que se finalizó el programa 
 }
-//cpp.sh/2iiw2  (url dada en cpp.sh) ****** Maria Alejandra Acevedo Patiño 
+//cpp.sh/2iiw2  (url dada en cpp.sh) ****** Maria Alejandra Acevedo Patiño ******** FUNDAMENTOS DE PROGRAMACION *** Profesor: JohnRestrepo
