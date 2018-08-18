@@ -1,4 +1,4 @@
-//Desarrolle una aplicación que reciba tres strings y responda indicando cuál de todos ellos es el primero alfabéticamente.
+//Punto 6. Desarrolle una aplicación que reciba tres strings y responda indicando cuál de todos ellos es el primero alfabéticamente.
 #include <iostream>
 #include <string>
 int main()
