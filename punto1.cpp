@@ -11,8 +11,8 @@ int a ; // definir tipo de variables (variable tipo entero)
 float c;
 std::cout << " ingrese un numero entero \n";   
 std::cin >> a; // ingresar numeros
-c=(float)a;
-std::cout << " el numero en flotante es: \n" << c ;
+c=(float)a; // type casting 
+std::cout << " el numero en flotante es: \n" << c ; // no se pierde info  
 return 0; }
 
 
@@ -22,11 +22,11 @@ return 0; }
 int main()
 {
 int a ; // definir tipo de variables (variable tipo entero)
-float c;
+float c;// 
 std::cout << " ingrese un numero entero \n";   
 std::cin >> a; // ingresar numeros
 c=a;
-std::cout << " el numero en flotante es: \n" << c ;
+std::cout << " el numero en flotante es: \n" << c ; // no se pierde info
 return 0; }
 
 
@@ -53,6 +53,6 @@ int a ; // definir tipo de variables (variable tipo entero)
 float c;
 std::cout << " ingrese un numero flotante \n";   
 std::cin >> c; // ingresar numeros
-a=(int)c;
+a=(int)c;// type casting
 std::cout << " el numero entero es: \n" << a ; //se pierden los decimales
 return 0; } 
