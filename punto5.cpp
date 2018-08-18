@@ -1,11 +1,11 @@
 // Example program
 #include <iostream>
 #include <string>
+using namespace std;
 int main()
 {
-  float a,b;
-  std::cout<<"Ingrese tres numeros flotantes: \n";
-  std::cin>> a >> b ;
-  a==b? std::cout << a <<" es igual a " << b: a>b? std::cout << a << " es mayor que: " << b: std::cout<<b <<" es mayor que: " << a;
-  return 0;
+  float a,b,c;
+  cout<<"Ingrese tres numeros flotantes: \n";
+cin>> a >> b >> c;
+a>=b&&a>=c ? (cout<< "el mayor es: " <<a):(b>a&&b>=c)?(cout<< "el mayor es b: "<< b):(cout<<"el mayor es: " << c);
 }
