@@ -1,4 +1,5 @@
-// Example program
+/* Punto 4. Programe una aplicación que reciba un número entero de 5 dígitos, por ejemplo 52463, y que responda con los dígitos que componen el número separados por tres espacios, por ejemplo:
+5 2 4 6 3.*/
 #include <iostream>
 #include <string>
 int main()
