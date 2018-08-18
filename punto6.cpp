@@ -1,10 +1,7 @@
-// Punto 6.Ordenar alfabeticamente tres string
-
+//Desarrolle una aplicación que reciba tres strings y responda indicando cuál de todos ellos es el primero alfabéticamente.
 #include <iostream>
 #include <string>
-
 int main()
-
 {
 std::string str1,str2, str3,x,y,z;
 std::cout << "ingresar strings: \n";
