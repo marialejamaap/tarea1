@@ -1,4 +1,4 @@
-// Example program
+// 5. Desarrolle una aplicación que reciba tres números flotantes y responda indicando cuál de todos ellos es el mayor.
 #include <iostream>
 #include <string>
 using namespace std;
